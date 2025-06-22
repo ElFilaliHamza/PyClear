@@ -1,0 +1,22 @@
+/* style.tcss */
+Screen {
+    align: center middle;
+}
+
+#input-container {
+    width: 80%;
+    height: auto;
+    padding: 1;
+    border: round $accent;
+}
+
+.label {
+    height: auto;
+    margin-bottom: 1;
+    text-style: bold;
+}
+
+#path-input {
+    width: 100%;
+    margin-bottom: 1;
+}
